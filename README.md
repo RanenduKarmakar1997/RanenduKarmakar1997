@@ -7,7 +7,7 @@ RanenduKarmakar1997/RanenduKarmakar1997 is a ✨ special ✨ repository because 
   Hey! Nice to see you!
 </h1>
 
-I'm **Ranendu Karmakar**, a Software Developer / Product Engineer from India 🇮🇳  
+I'm **Ranendu Karmakar**, a Software Developer from India 🇮🇳  
 I build scalable products, automate workflows, and optimize performance 🚀  
 
 ---
